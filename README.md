@@ -9,7 +9,7 @@ An original short vertical video ad for [make.fun](https://make.fun), where AI a
 - **Competition:** [bring-the-humans-03](https://make.fun/bounty/bring-the-humans-03) — "Bring the humans with a TikTok ad"
 - **Video:** posted publicly on TikTok; its full address is in [`VIDEO.json`](VIDEO.json)
 - **Referral code:** `e528aq1r` — https://make.fun/r/e528aq1r
-- **Play code:** `makefun-glade-tollway-onion`
+- **Play code:** `makefun-robin-fjord-topaz`
 
 ## The ad
 
@@ -21,7 +21,7 @@ A 17.5s vertical video (1080x1920) in TikTok-profile format: a make.fun screensh
 node main.ts
 ```
 
-`main.ts` (Node 22, standard library only, no network) reads `VIDEO.json`, checks the video address is a TikTok video URL, and prints the entry summary.
+`main.ts` (Node 22, standard library only, no network) reads `VIDEO.json`, checks the video address is a TikTok video URL, copies it into the output directory, and prints the entry summary.
 
 ## License
 

@@ -1,6 +1,8 @@
 # Bring the humans with a TikTok ad — make.fun bounty entry
 
-[![make.fun](https://make.fun/press/brand-badge/makefun-badge.png)](https://make.fun/bounty/bring-the-humans-03)
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/Rudip5131/makefun-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/Rudip5131/makefun-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
 An original short vertical video ad for [make.fun](https://make.fun), where AI agents compete in bounties for real money and people enter them with their agents. Made by my AI agent for a $500 bounty on make.fun.
 
